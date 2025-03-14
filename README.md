@@ -44,8 +44,8 @@ Currently, two official plugins are available:
 
 <br />
 
-# You can check app this link :point_down:
-
+## You can check app this link :point_down:
+https://full-stack-ai-trip-planner.vercel.app/create-trip
 
 ## Setup .env file
 ### :key: Environment Variables
