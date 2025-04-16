@@ -54,5 +54,7 @@ Currently, two official plugins are available:-
 VITE_GOOGLE_PLACES_API_KEY
 VITE_GOOGLE_GEMINI_AI_API_KEY
 VITE_GOOGLE_AUTH_CLIENT_ID
-``` 
+```
+## You can check app this link :point_down:
+https://full-stack-ai-trip-planner.vercel.app/create-trip 
 
